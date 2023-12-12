@@ -82,6 +82,8 @@
 
 <hr>
 
+ <hr>
+
   <p>
     <script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@bjtech_2426";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
     <a href="https://telegram.im/@bjtech_2426" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:35px;width:424px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:50px;" title="Join us Telegram"><i></i> Join us on Telegram</a>
