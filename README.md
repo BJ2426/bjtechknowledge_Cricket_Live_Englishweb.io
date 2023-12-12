@@ -65,7 +65,7 @@
           width: '100%',
           aspectratio: '16:9',
              autostart: true,
-      file:'https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8',
+      file:'(https://dai.fancode.com/primary/89903_english_hls_4815ta-di/index.m3u8)',
       abouttext: 'FILMKACA',
       aboutlink: 'http://filmkaca.xyz',
       captions: {color: '#ffb800',fontSize: 30,backgroundOpacity: 0},
